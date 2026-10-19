@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "C:\\Users\\Honey\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\**",
+                "C:\\Users\\Honey\\Documents\\Arduino\\libraries\\**",
+                "C:\\Program Files (x86)\\arduino-1.8.13\\libraries\\**",
+                "C:\\Users\\Honey\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.3\\**"
+            ],
+            "forcedInclude": [
+                "C:\\Users\\Honey\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.3\\cores\\arduino\\Arduino.h"
+            ],
+            "defines": [
+                "USBCON"
+            ],
+            "intelliSenseMode": "windows-msvc-x64",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}

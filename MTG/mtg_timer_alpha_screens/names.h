@@ -1,0 +1,1 @@
+char NAMES[14][16] = {{"ED"}, {"GEORDIE"}, {"NAPOLEON"}, {"SPONGEBOB"}, {"SQUIDWARD"}, {"JOEY"}, {"CHANDLER"}, {"PHOEBE"}, {"XENA"}, {"HERCULES"}, {"DARWIN"}, {"ARISTOTLE"}, {"MR. CRABS"}, {"BEYONCE"}};
